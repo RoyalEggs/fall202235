@@ -17,4 +17,21 @@ if answer == "5":
     print("Oh, you are smart!")
 else:
     print("Nice try.")
-print("Your score is", score)
+answer= input("What is the answer to everything?")
+if answer== "Jesus":
+    score=score+1
+    print("Always will be.")
+else:
+    print("No sir.")
+answer= input("What color is a carrot?")
+if answer == ("I think its a carrot"):
+    score=score+1
+    print("Its a carrot.")
+else:
+    print("No.")
+answer= input("If you dig a six foot hole, how deep is that hole?")
+if answer== ("20 ft"):
+    score=score+1
+    print("Yes")
+else:
+    print("Nah Bro.")
