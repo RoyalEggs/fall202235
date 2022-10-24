@@ -1,4 +1,4 @@
-names = ("dogs", "cats", "rabbits", "cows", "horses")
+names = ("deez", "nuts","Loops", "moms", "Chads")
 numbers = []
 numbers.append(float(input(f"How many {names[0]}? ")))
 numbers.append(float(input(f"How many {names[1]}? ")))
