@@ -1,0 +1,10 @@
+for col in range(1,10):
+    print("x", end="")
+
+for spaces in range(1,10):
+    for col in range(1,spaces):
+        print(" ", end="")
+    print("x")
+
+for col in range(1,10):
+    print("x", end="")
